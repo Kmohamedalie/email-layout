@@ -1,2 +1,2 @@
-# email-layout
-Email layout 📧
+# Email layout 📧
+Simple  Email layout 📧 using HTML and CSS.
